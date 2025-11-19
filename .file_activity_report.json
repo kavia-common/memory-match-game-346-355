@@ -1,0 +1,85 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/package.json",
+            "count": 25
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/.gitignore",
+            "count": 16
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/App.js",
+            "count": 13
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/MemoryCard.js",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/App.css",
+            "count": 9
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/MemoryCard.css",
+            "count": 9
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/.env",
+            "count": 7
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/post_process_status.lock",
+            "count": 5
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/eslint.config.mjs",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/index.js",
+            "count": 3
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/index.css",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/README.md",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/App.test.js",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/src/setupTests.js",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/favicon.ico",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/logo192.png",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/logo512.png",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/manifest.json",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/robots.txt",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/memory-match-game-346-355/memory_game_frontend/public/index.html",
+            "count": 1
+        }
+    ],
+    "top_n_last_10_min_accessed": []
+}
